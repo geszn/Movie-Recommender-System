@@ -3,16 +3,16 @@
 Recommendation system is developed to match consumers with product to meet their variety of special needs and tastes in order to enhance user satisfaction and loyalty. The popularity of personalized recommendation system has been increased in recent years and applied in several areas include movies, songs, books, news, friends recommendations on social media, travel products, and other products in general. This repo shows a set of Jupyter Notebooks demonstrating a variety of movie recommendation systems for the MovieLens 100K dataset. It consists of 90,570 ratings from 943 users on 1682 different movies.
 
 Used:
-* [Matrix Factorization with Hyperparameter tuning] to recommend movies by Matrix decompositions.
-* [Root Mean Square Error (RMSE)] to measure similarity between two users.
+* Matrix Factorization with Hyperparameter tuning to recommend movies by Matrix decompositions.
+* Root Mean Square Error (RMSE) to measure similarity between two users.
 
 ## Requirements
-* [Python 2.7]
-* [Jupyter Notebook]
+* Python 2.7
+* Jupyter Notebook
 
 ## Dependencies
-* [Pandas]
-* [GraphLab]
+* Pandas
+* GraphLab
 
 ## Install Dependencies
 ### Step 1 : Install virtual environment
