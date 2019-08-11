@@ -60,4 +60,10 @@ And then import again and it should work.
 
 ## Output
 Top 5 movie recommendations for 5 users using Matrix Factorization method with Regularization hyperparameter = 1e - 5
+![item1](https://user-images.githubusercontent.com/14583471/62832620-b5d61080-bc63-11e9-8a89-767e8ca6ceec.jpg)
 
+RMSE comparison
+![item2](https://user-images.githubusercontent.com/14583471/62832626-d8682980-bc63-11e9-8a79-670f7be802b1.jpg)
+
+Evaluation of processing time
+![Item3](https://user-images.githubusercontent.com/14583471/62832627-db631a00-bc63-11e9-8daa-e8dda1d936e8.jpg)
